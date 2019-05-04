@@ -25,3 +25,52 @@
     height: 1000px;
     margin-left: 25px;
 }
+#stopka
+{
+    background-color: seagreen;    
+    height:100px;
+    text-align: center;
+    padding: 10px;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+#menu
+{
+    margin-left: 25px;
+    margin-top: 10px;
+    height: 100px;  
+    background-color: darkcyan;
+    color: black ;
+    padding: 10px;
+}
+
+.opcja
+{
+    height:80px;
+    float: left;
+    width: 300px;
+    border: dotted 2px black;
+    margin-right: 90px;
+    margin-left: 100px; 
+    margin-top: 7px;
+    text-align: center;
+    font-size: 50px;
+    color:black;
+
+}
+
+
+
+.opcja:hover
+{
+    cursor: pointer;
+    background-color:darkgray;
+    color:white;
+
+}
+
+body
+{
+    background-color: brown;
+}
