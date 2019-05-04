@@ -1,0 +1,27 @@
+#logo
+{
+    background-color: dodgerblue;
+    height: 70px;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#opis
+{
+    float: left;
+    background-color: coral;
+    width: 350px;
+    height: 1000px;
+    margin-right: 25px;
+    font-size: 25px;
+    text-align: center;
+    
+}
+
+#zawartosc
+{
+    background-color: palegreen;
+    height: 1000px;
+    margin-left: 25px;
+}
